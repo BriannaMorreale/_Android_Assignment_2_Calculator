@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment_2_Calculator</string>
+    <string name="name_of_app">Calculator App</string>
+    <string name="desc">Insert Equations Here</string>
+</resources>
